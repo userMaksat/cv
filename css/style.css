@@ -47,7 +47,7 @@ a:hover {
 }
 
 .middle-container {
-  width: 75%;
+  width: 85%;
   margin: 0 auto;
   background-color: #ededed;
   color: #2e383f;
@@ -63,23 +63,23 @@ a:hover {
 .title {
   margin-top: 0;
   font-family: 'Parisienne', cursive;
-  font-size: 80px;
+  font-size: 562.5%;
 }
 
 .subtitle {
-  font-size: 30px;
+  font-size: 187.5%;
 }
 
 .top-cloud {
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 10%;
+  right: 18.75%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 18.75%;
+  bottom: 40%;
 }
 
 .cloud {
@@ -134,7 +134,7 @@ a:hover {
 
 .school-row {
   text-align: left;
-  width: 40%;
+  width: 35%;
   margin: 0 auto;
   border-style: none none solid none;
   border-width: 1px;
@@ -152,7 +152,7 @@ a:hover {
 
 .honor-row {
   text-align: left;
-  width: 43%;
+  width: 37.5%;
   margin: 0 auto;
   border-style: none none solid none;
   border-width: 1px;
